@@ -1,4 +1,4 @@
-![neoAI hero image](https://github.com/litedragondev/neoAI/blob/main/files/hero.png?raw=true)
+![neoAI hero image](https://github.com/litedragondev/neoAI/blob/main/repo-files/hero.png?raw=true)
 
 This repository is the home of my learnings about Artificial Intelligence and Neuronal Networks. 
 This code is free of use and of reading. All of the code is written in Python with variable and function names in French.
